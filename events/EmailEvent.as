@@ -1,0 +1,1 @@
+﻿package earthscope.events{		import earthscope.events.GameEvent;		public class EmailEvent extends GameEvent {				public static const YOU_HAVE_MAIL:String = "You have mail.";						public function EmailEvent(type:String, bubbles:Boolean= true, cancelable:Boolean = false){						super(type, bubbles, cancelable); 			trace("Rumble Event");		}							}					}

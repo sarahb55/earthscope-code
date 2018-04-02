@@ -1,0 +1,3 @@
+An evacuation warning will allow the citizens of Volcano Island time to prepare. However, if you decide to evacuate too soon the citizens will be angry, your popularity will decline, and the town will ignore the warning. Conversely, if you wait too long to issue a warning it may be too late and the people will not be prepared to leave when the volcano is ready to erupt. You may want to consult your handbook first before deciding.
+
+Do you wish to issue the warning at this time?

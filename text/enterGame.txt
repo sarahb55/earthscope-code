@@ -1,0 +1,16 @@
+Welcome to Volcano Island Mayor:
+
+You've just been elected the mayor of a small town near an active volcano. Please make yourself at home in your new office. You can see our wonderful volcano out of your window. 
+
+The townspeople are worried about the volcano becoming active and erupting. 
+
+The town council has authorized installing three GPS receivers and three seismometers on the volcano and a seismometer and GPS receiver away from the volcano. These instruments will measure any volcano activity and help to predict if and when the volcano will erupt. 
+
+Luckily, you can pilot a helicopter. So, please drop off the receivers at the targets.
+
+Thanks much,
+
+Town Council
+
+
+

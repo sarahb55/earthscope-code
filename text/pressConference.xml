@@ -1,0 +1,258 @@
+<xml>
+<intro>
+Good morning everyone, I'm glad you all could be here today. Let's begin.
+</intro>
+<lastQuestion>
+D. No More questions please.
+</lastQuestion>
+<conclusion>
+Thank you very much. I appreciate your questions. Goodbye!
+</conclusion>
+
+<question>
+<press>
+What do scientists tell you they think is the primary cause of volcanoes?
+</press>
+<answers>
+<answer correct="false">
+A. The heating and expanding of Earth.
+</answer>
+<feedback>
+Sorry, this is incorrect, Mayor. Plate tectonics, the process where large, pieces of the Earth's crust are moving slowly in relation to each other, is thought to be the primary cause. 
+</feedback>
+
+<answer correct="false">
+B. The Moon's gravitational pull.
+</answer>
+<feedback>
+Sorry, Mayor. This is incorrect. Plate tectonics, the process where large, continent-sized pieces of the Earth's crust are moving slowly in relation to each other, is thought to be the primary cause. 
+</feedback>
+<answer correct="true">
+C. Plate tectonics
+</answer>
+<feedback>
+Yes! Well done! Scientists think that plate tectonics, the process where large, continent-sized pieces of the Earth's crust are moving slowly in relation to each other, is the primary cause of volcanic eruptions.
+</feedback>
+</answers>
+</question>
+
+<question>
+<press>
+Can scientists accurately predict when and where a volcanic eruption will occur?
+</press>
+<answers>
+<answer correct="false">
+A. Always
+</answer>
+<feedback>
+Unfortunately, this is not quite true. Although scientists are constantly trying to learn more about how to predict volcanic eruptions, they have not yet perfected this.
+</feedback>
+<answer correct="false">
+B. Never
+</answer>
+<feedback>
+Luckily, you are wrong. With good instruments, such as GPS receivers and Seismometers, they can get a good idea about when a volcano is likely to erupt. 
+</feedback>
+<answer correct="true">
+C. Most of the time (if they have adequate instrumentation to provide information)
+</answer>
+<feedback>
+Yes! Correct! Thankfully, scientists now know enough about volcanoes that with good instrumentation they can get a good idea about when a volcano is going to erupt. Unfortunately, their techniques are not foolproof.
+</feedback>
+</answers>
+</question>
+
+<question>
+<press>
+How will you make the decision to evacuate?
+</press>
+<answers>
+<answer correct="false">
+A. Use the GPS data.
+</answer>
+<feedback>
+Well, the GPS data will help you, but don't you want to look at the seismograph, too?
+</feedback>
+
+<answer correct="false">
+B. Use the seismograph data.
+</answer>
+<feedback>
+Well, the seismograph data will certainly help you, but don't you want to look at the GPS data, too?
+</feedback>
+<answer correct="true">
+C. Use both the GPS and Seismograph data.
+</answer>
+<feedback>
+Yes! We're lucky to have you as our mayor. By looking at both instruments, you have the best chance of predicting when the volcano might erupt.
+</feedback>
+</answers>
+</question>
+
+
+<question>
+<press>
+Will we have enough time to get ready?
+</press>
+<answers>
+<answer correct="true">
+A. Yes, I'll give the town a warning before the evacuation, based on what the instruments show.
+</answer>
+<feedback>
+Thanks! We're lucky to have you as mayor.
+</feedback>
+
+<answer correct="false">
+B. No, I will have no way of knowing when the volcano will erupt.
+</answer>
+<feedback>
+But don't you have those instruments to guide you? You'd better learn some more about how to predict volcanic eruptions if you want to save your citizens and yourself!
+</feedback>
+<answer correct="false">
+C. I have no idea!
+</answer>
+<feedback>
+But don't you have those instruments to guide you? You'd better learn some more about how to predict volcanic eruptions if you want to save your citizens and yourself!
+</feedback>
+</answers>
+</question>
+
+<question>
+<press>
+You mentioned using GPS to monitor the volcano. What will that tell you?
+</press>
+<answers>
+<answer correct="false">
+A. The route to take for the evacuation.
+</answer>
+<feedback>
+Well, a GPS navigation system will certainly be useful for finding a good evacuation route, but what about those receivers you installed at the volcano?
+</feedback>
+
+<answer correct="true">
+B. How much the ground near the instruments is moving.
+</answer>
+<feedback>
+Yes, correct. Those GPS instruments will tell you if the ground around the volcano is inflating as magma pushes against it from under the surface.
+</feedback>
+<answer correct="false">
+C. How much carbon dioxide is being emitted from the volcano.
+</answer>
+<feedback>
+No, sorry, you are wrong. GPS receivers cannot measure carbon dioxide
+</feedback>
+</answers>
+</question>
+
+
+<question>
+<press>
+We thought Mt. Leakytop was an extinct volcano; it hasn't erupted since 1860. What are you worried about?
+</press>
+<answers>
+<answer correct="true">
+A. A volcano can be dormant for a long period, sometimes many thousands of years, before suddenly erupting again.
+</answer>
+<feedback>
+You're right! 
+</feedback>
+
+<answer correct="false">
+B. A volcano is active only if it has erupted in the past 100 years.
+</answer>
+<feedback>
+No, sorry, you are wrong. It is possible for a volcano to be dormant for many thousands of years before suddenly erupting.
+</feedback>
+<answer correct="false">
+C. A volcano is active only if it has erupted in the past 25 years - we're not sure what's going on with this one
+</answer>
+<feedback>
+No, sorry, that's incorrect. It is possible for a volcano to be dormant for many thousands of years before suddenly erupting.
+</feedback>
+</answers>
+</question>
+
+
+<question>
+<press>
+If Mt. Leakytop does erupt, how dangerous will it be? What could happen?
+</press>
+<answers>
+<answer correct="false">
+A. Lava flows, ash, and mudslides.
+</answer>
+<feedback>
+You've named some but there are other hazards as well.
+</feedback>
+
+<answer correct="false">
+B. Hot rocks will shoot in the air. Poison gases will be released.
+</answer>
+<feedback>
+You've named some but there are other hazards as well.
+</feedback>
+<answer correct="true">
+C. All of the above.
+</answer>
+<feedback>
+Correct! Volcanoes can be very dangerous. That's why it's so important for you to keep monitoring this one!
+</feedback>
+</answers>
+</question>
+
+
+<question>
+<press>
+Is it true that seismometers are so sensitive that they can measure earthquakes that are smaller than we can feel?
+</press>
+<answers>
+<answer correct="true">
+A. Yes. 
+</answer>
+<feedback>
+Correct! Seismometers are able to measure extremely small earthquakes, much smaller than we are able to feel. 
+</feedback>
+
+<answer correct="false">
+B. No.
+</answer>
+<feedback>
+Sorry, but you are incorrect. Seismometers are able to measure extremely small earthquakes, much smaller than we are able to feel.
+</feedback>
+<answer correct="false">
+C. I have no idea.
+</answer>
+<feedback>
+You'd better read your handbook to become more informed. 
+</feedback>
+</answers>
+</question>
+
+
+<question>
+<press>
+Is it true that hundreds of small earthquakes could occur before the volcano erupts?
+</press>
+<answers>
+<answer correct="true">
+A. Yes. 
+</answer>
+<feedback>
+You're right - it's pretty common to have a swarm of earthquakes before an eruption, although many of the earthquakes are likely to be so small we won't be able feel them (that's where the seismometers can help.
+</feedback>
+
+<answer correct="false">
+B. No.
+</answer>
+<feedback>
+No, sorry. You might need to go look over your handbook some more. It's pretty common to have a swarm of earthquakes before an eruption, although many of the earthquakes are likely to be so small we won't be able feel them (that's where the seismometers can help).
+</feedback>
+<answer correct="false">
+C. I have no idea.
+</answer>
+<feedback>
+No, sorry. You might need to go look over your handbook some more. It's pretty common to have a swarm of earthquakes before an eruption, although many of the earthquakes are likely to be so small we won't be able feel them (that's where the seismometers can help).
+</feedback>
+</answers>
+</question>
+</xml>

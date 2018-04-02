@@ -1,0 +1,54 @@
+Videos:
+
+* Alex edit evacuation scene to 3 seconds
+* Steve edit seismo and gps flvs for helicopter game (10-20 seconds? optional)
+* volcano video for handbook (Clive/Alex)
+
+Sound:
+
+* add crowd noise to press conference
+* add sound for correct and incorrect answer in press conference
+* add sound for score changes
+* add sound for alert box
+* better volcano sounds for rumble and explosion
+* applause at the end 
+* handbook open sound (pages flipping...)
+
+Email:
+
+* Sarah find and fix email bug that causes freeze
+* Alex write a set of questions for post explosion / before warning
+* Alex edit after warning emails
+* Edit photoshop to make email
+
+Last screen:
+
+* Alex add explanation for score (optional)
+* Sarah move buttons to bar below
+
+Island from a distance
+* Sarah move done button to below in bar
+
+
+Handbook:
+*  EarthScope link to new window
+*  Increase resolution of first three handbook pages
+*  Match characters to game
+
+Other:
+* Sarah add new GPS/Seismo Game
+
+Testing:
+* Alex test after email bug fixed and look for failures try to break
+* Test on windows machine?
+
+
+Score:
+* Feedback on score.
+
+
+
+
+ 
+
+

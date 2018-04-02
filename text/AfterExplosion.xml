@@ -1,0 +1,188 @@
+<emails>
+<email>
+<subject>
+Getting ready to issue evacuation warning</subject>
+<from>
+Chief of Police</from>
+<body yesBtn="yes" noBtn="no">
+Dear Mayor - Our disaster preparation plans are in effect. Would you like to cancel scheduled vacations so all our officers can be on duty?
+</body>
+<replyYes doneBtn="done" money="0" popularity="0" preparation="+1">
+<from>
+Chief of Police
+</from>
+<body>
+Thank you Mayor, all officers are back and reporting for duty.
+</body>
+</replyYes>
+<replyNo doneBtn="done" money="-1" popularity="0" preparation="-1">
+<from>
+Chief of Police
+</from>
+<body>
+Mayor - We will try to prepare for evacuation, even though some officers are off duty. We will have those who are here take extra overtime, which will cost money.
+</body>
+</replyNo>
+</email>
+
+<email>
+<subject>
+Instruments all working</subject>
+<from>
+Staff geologist</from>
+<body yesBtn="yes" noBtn="no">
+Mayor - All the GPS and seismometers seem to be working. Should I go out to the field to check them, just in case?
+</body>
+<replyYes doneBtn="done" money="-1" popularity="0" preparation="+1">
+<from>
+Staff geologist
+</from>
+<body>
+Mayor - I will travel to each of the instruments to make sure they are  working perfectly as the town waits for you to call the evacuation.
+</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="0" preparation="-1">
+<from>
+Staff geologist
+</from>
+<body>
+Mayor - Ok, I'll sit tight. But you should know that geological instruments sometimes fail when you most need them! Please watch the readouts in your office. If they show rapid increases in activity, then hit the evacuation button.
+</body>
+</replyNo>
+</email>
+
+<email>
+<subject>
+Your chopper is ready</subject>
+<from>
+Helicopter Pilot Service</from>
+<body yesBtn="yes" noBtn="no">
+Dear Mayor, Should we send the chopper on an inspection tour to see from the air how the preparations are going?
+</body>
+<replyYes doneBtn="done" money="-1" popularity="+1" preparation="0">
+<from>
+Helicopter Pilot Service
+</from>
+<body>
+Dear Mayor, From the air, it looks like the preparations are going well... Keep your eyes on those instruments, if you evacuate too soon, people get mad.</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="-1">
+<from>
+Helicopter Pilot Service
+</from>
+<body>
+Dear Mayor, The helicopter is grounded, as you ordered. Hope that people are packing for the evacuation, but we have no way of telling.
+</body>
+</replyNo>
+</email>
+
+<email>
+<subject>
+Provisions for pets? </subject>
+<from>
+Concerned citizen</from>
+<body yesBtn="yes" noBtn="no">
+Dear Mayor -
+We have two dogs, three cats, and a parakeet. If we have to evacuate, will there be food and water for the animals so we don't have to carry extra stuff?
+</body>
+<replyYes doneBtn="done" money="-1" popularity="+1" preparation="0">
+<from>
+Concerned citizen 
+</from>
+<body>
+Dear Mayor -
+Thank you so much for providing food and water for the animals. We will be sure to be ready to evacuate if necessary.</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="-1">
+<from>
+Concerned citizen
+</from>
+<body>
+Dear Mayor:
+I understand that the town doesn't have  money to provide food and water for everyone's pets. We'll be sure to pack enough for them to eat and drink for several days if we have to evacuate. 
+</body>
+</replyNo>
+</email>
+
+<email>
+<subject>
+Use cruise ships for evacuation? </subject>
+<from>
+Harbormaster:</from>
+<body yesBtn="yes" noBtn="no">
+From time to time, cruise ships visit the harbor. If a cruise ship is here if you call an evacuation, will you ask the capitan to help carry townspeople to safety? You'll have to pay, of course.
+</body>
+<replyYes doneBtn="done" money="-1" popularity="+1" preparation="+1">
+<from>
+Harbormaster 
+</from>
+<body>
+Thanks very much, good decision.</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="-1">
+<from>
+Harbormaster
+</from>
+<body>
+Ok, I understand you don't want to pay the cruise ships to take people in case of an evacuation. Unfortunately, that may make it harder to get everyone to safety.
+</body>
+</replyNo>
+</email>
+
+<email>
+<subject>
+Alarm system </subject>
+<from>
+Police Captain</from>
+<body yesBtn="yes" noBtn="no">
+Mayor -
+The island has a series of alarm sirens linked to your office. If you decide it's time to evacuate, would you like to trigger the sirens? We will have to hire an electrician to make sure the system works, or course.
+</body>
+<replyYes doneBtn="done" money="-1" popularity="+1" preparation="+1">
+<from>
+Police Capitan 
+</from>
+<body>
+Mayor --
+The electrician tells me that the alarms are working perfectly now. Thank you!</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="-1">
+<from>
+Police Capitan
+</from>
+<body>
+Since you have decided not to tie in the alarm sirens, the news cast on TV is the only way townspeople will find out if they have to evacuate.
+</body>
+</replyNo>
+</email>
+
+<email>
+<subject>
+Instruments </subject>
+<from>
+Geologist</from>
+<body yesBtn="yes" noBtn="no">
+Mayor, 
+Have you been watching the instruments in your office? Does the GPS looks like it's steadily rising, and heading to go off the top of the graph?
+</body>
+<replyYes doneBtn="done" money="-1" popularity="0" preparation="0">
+<from>
+Geologist 
+</from>
+<body>
+Mayor, 
+You should watch the GPS carefully. If the GPS sensors tell you that the surface is inching steadily upward, it indicates magma is nearing the surface, and an eruption may be coming shortly. It might be time to evacuate! </body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="0" preparation="-1">
+<from>
+Geologist
+</from>
+<body>
+Mayor,
+I'm glad you're watching the instruments, keep your eye on them.
+</body>
+</replyNo>
+</email>
+
+
+</emails>

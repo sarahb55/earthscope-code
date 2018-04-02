@@ -1,0 +1,5 @@
+Seismometer 
+ 
+This monitor shows information from a seismometer located near the volcano.  Any vibrations of the ground near the seismometer (e.g. from small earthquakes) will show on this monitor.
+ 
+Click on the monitor to learn more.

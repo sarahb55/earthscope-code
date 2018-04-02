@@ -1,0 +1,1 @@
+﻿package earthscope.utils{		import flash.media.Sound;	import flash.media.SoundChannel;	import flash.net.URLRequest;			public class SoundPlayer{				private var _file:String;		private var snd:Sound ;		private var channel:SoundChannel;				public							}							}

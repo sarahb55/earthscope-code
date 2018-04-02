@@ -1,0 +1,5 @@
+GPS 
+ 
+This monitor shows information from a highly accurate GPS receiver that has been installed at the volcano.  Any changes in the height of the ground near the receiver will show on this monitor. 
+ 
+Click on the monitor to learn more.

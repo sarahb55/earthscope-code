@@ -1,0 +1,1 @@
+﻿package earthscope.assets{		import flash.			public class Assets{													}								}

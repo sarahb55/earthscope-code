@@ -1,0 +1,54 @@
+import flash.display.Sprite;
+import flash.events.MouseEvent;
+import flash.display.Bitmap;
+import flash.display.BitmapData;
+import flash.utils.ByteArray;
+
+var circle:Sprite = new Sprite();
+circle.graphics.beginFill(0xFFCC00);
+circle.graphics.drawCircle(0, 0, 40);
+
+var target1:Sprite = new Sprite();
+target1.graphics.beginFill(0xCCFF00);
+target1.graphics.drawCircle(0, 0, 40);
+target1.name = "target1";
+
+var target2:Sprite = new Sprite();
+target2.graphics.beginFill(0xCCFF00);
+target2.graphics.drawCircle(0, 200, 100);
+target2.name = "target2";
+
+
+
+
+addChild(target1);
+addChild(target2);
+addChild(circle);
+
+circle.addEventListener(MouseEvent.MOUSE_DOWN, mouseDown) 
+
+function mouseDown(event:MouseEvent):void {
+    circle.startDrag();
+}
+circle.addEventListener(MouseEvent.MOUSE_UP, mouseReleased);
+
+function mouseReleased(event:MouseEvent):void {
+    circle.stopDrag();
+    trace(circle.dropTarget.name);
+	trace(circle.dropTarget.alpha);
+	var myBitmapData:BitmapData = new BitmapData(100, 100, false, 0x009900);
+
+for (var i:uint = 0; i < 100; i++)
+{
+    var red:uint = 0xFF0000;
+    myBitmapData.setPixel(50, i, red);
+    myBitmapData.setPixel(i, 50, red);
+}
+
+	var myBitmapImage:Bitmap = new Bitmap(myBitmapData);
+	addChild(myBitmapImage);
+	var pixelValue:uint = myBitmapData.getPixel(circle.x, circle.y);
+	trace(pixelValue.toString(16));
+	trace(circle.x);
+	
+}

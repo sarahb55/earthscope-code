@@ -1,0 +1,1 @@
+﻿package earthscope.events{		import earthscope.events.GameEvent;		public class RumbleEvent extends GameEvent{				public static const RUMBLE:String = "Volcano Rumbles";						public function RumbleEvent(type:String, bubbles:Boolean= true, cancelable:Boolean = false){						super(type, bubbles, cancelable); 			trace("Rumble Event");		}							}					}

@@ -1,0 +1,3 @@
+Before issuing the evacuation you want to make sure that the citizens of Volcano Island are prepared to evacuate by issuing a volcano warning. You may want to consult your handbook before deciding.
+
+Do you still want to proceed with the evacuation?

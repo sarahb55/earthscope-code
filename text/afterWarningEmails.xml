@@ -1,0 +1,121 @@
+<emails>
+
+<email>
+<subject>
+How much to bring?
+</subject>
+<from>
+Concerned citizen
+</from>
+<body yesBtn="yes" noBtn="no">
+If we have to evacuate, will we be allowed to bring more than six suitcases per person?
+</body>
+<replyYes doneBtn="done" money="-3" popularity="1" preparation="0">
+<from>
+Town Treasurer
+</from>
+<body>
+I am glad we can bring lots of stuff if we have to evacuate, but this will mean it will cost more to hire the boats and planes we will need. Keep an eye on your bank account!
+</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="0">
+<from>
+Concerned citizen
+</from>
+<body>
+Dear Mayor,  I am really upset I can not bring my entire collection of garden gnomes. I know I have over 200 of them, but I consider them just like family.
+</body>
+</replyNo>
+</email>
+
+
+<email>
+<subject>
+Special sale on life boats
+</subject>
+<from>
+Tradewinds Boats and Ferries
+</from>
+<body yesBtn="yes" noBtn="no">
+Dear Mayor: We are having a special on life boats. We have three left. Would you like to buy them in case people have to leave the island? If so, they will cost two coins but they will increase your preparedness!
+</body>
+<replyYes doneBtn="done" money="-2" popularity="1" preparation="1">
+<from>
+Tradewinds Boats and Ferries
+</from>
+<body>
+Dear Mayor: Thanks for your purchase. Your townspeople will be able to evacuate faster now!
+</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="0">
+<from>
+Tradewinds Boats and Ferries
+</from>
+<body>
+Dear Mayor: I guess you think that you enough lifeboats, but people are keeping their eyes on that volcano!
+</body>
+</replyNo>
+</email>
+
+
+
+<email>
+<subject>
+More GPS Sensors</subject>
+<from>
+Scientist@Earthscope.org
+</from>
+<body yesBtn="yes" noBtn="no">
+Dear Mayor: There is a new, more sensitive GPS reciever on the market. Would you like to install a few more of the latest sensors around the mountain to get better data about when it might erupt?
+</body>
+<replyYes doneBtn="done" money="-2" popularity="1" preparation="1">
+<from>
+Scientist@Earthscope.org
+</from>
+<body>
+Great! The mountain has better GPS instruments now. Keep an eye on them!
+</body>
+</replyYes>
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="-1">
+<from>
+Scientist@Earthscope.org
+</from>
+<body>
+Ok, I guess you needed to save money. But you will not have as good information about how fast the magma chamber is filling up without them.
+</body>
+</replyNo>
+</email>
+
+
+<email>
+<subject>
+More Seismometers
+</subject>
+<from>
+Scientist@Earthscope.org
+</from>
+<body yesBtn="yes" noBtn="no">
+Dear Mayor: I just got a shipment of improved seismometers. Would you like to install a few more of the latest seismometers around the mountain to get better data about when it might erupt?
+</body>
+<replyYes doneBtn="done" money="-1" popularity="1" preparation="1">
+<from>
+Scientist@Earthscope.org
+</from>
+<body>
+Great! The mountain has better instruments now. Keep an eye on them!
+</body>
+</replyYes>
+
+<replyNo doneBtn="done" money="0" popularity="-1" preparation="-1">
+<from>
+Scientist@Earthscope.org</from>
+<body>
+Ok, I guess you need to save money. But you will not have as much information about the small earthquakes that seem indicate the movement of magma beneath the surface without them.
+</body>
+</replyNo>
+
+</email>
+
+
+
+</emails>
