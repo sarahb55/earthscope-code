@@ -7,6 +7,7 @@ Volcano Island is a game that was developed with cooperation from the EarthScope
 To try out the game, click the links below.
 
 https://www.cfa.harvard.edu/earthscope/
+
 https://www.unavco.org/highlights/2008/volcano-island.html
 
 
