@@ -4,9 +4,10 @@ Earthscope Panorama is a pilot project to develop a high-quality, interactive co
 
 Volcano Island is a game that was developed with cooperation from the EarthScope education and outreach community by the CfA Space Geodesy Group, and the CfA Science Education Department. The target audience for the game is middle school children. It was designed for and tested by children this age. 
 
-To try out the game, click the link below.
+To try out the game, click the links below.
 
 https://www.cfa.harvard.edu/earthscope/
+https://www.unavco.org/highlights/2008/volcano-island.html
 
 
 
